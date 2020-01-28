@@ -13,4 +13,5 @@ repositories {
 }
 dependencies {
    compile group: 'commons-validator', name: 'commons-validator', version: '1.4.1'
+   compile group: 'org.apache.commons', name: 'commons-csv', version: '1.1'
 }
