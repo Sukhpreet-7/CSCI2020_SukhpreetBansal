@@ -3,7 +3,7 @@ plugins {
 }
 apply plugin: 'java'
 ext {
-   javaMainClass = "lab02.SimpleTest"
+   javaMainClass = "lab02.CSVDemo"
 }
 application {
     mainClassName = javaMainClass
